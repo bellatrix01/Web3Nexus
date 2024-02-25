@@ -17,16 +17,15 @@ Currently, two official plugins are available:
 - EthersJs
 - Faucet
 
-Decentralized chat-app:- https://gun-chat-dapp.web.app/ (hosted)
-Decentralized crowd-funding:- https://sprightly-genie-d11ffa.netlify.app/ (Hosted)(Please install metamask)
+- Decentralized chat-app:- https://gun-chat-dapp.web.app/ (hosted)
+- Decentralized crowd-funding:- https://sprightly-genie-d11ffa.netlify.app/ (Hosted)(Please install metamask)
 
 ## Running the demo
 
 To run the demo follow these steps:
 
 1. Clone the project with the code below.
-  
-
+  "https://github.com/bellatrix01/Web3Nexus.git"
     - Make sure you have the above prerequisites installed already!
     
 2. Create an Alchemy project, copy and paste your key in the spaces below.
@@ -36,3 +35,11 @@ To run the demo follow these steps:
     DEPLOYER_KEY=<YOUR_PRIVATE_KEY>
     ```
 3. Run the app using `yarn start`
+4. 
+- ⚽ [Metamask](https://metamask.io/)
+- 💡 [Hardhat](https://hardhat.org/)
+- 📈 [Alchamy](https://www.alchemy.com/)
+- 🔥 [ReactJs](https://reactjs.org/)
+- 🐻 [Solidity](https://soliditylang.org/)
+- 👀 [Ethersjs](https://docs.ethers.io/v5/)
+- 🎅 [Faucet](https://faucets.chain.link/rinkeby)
