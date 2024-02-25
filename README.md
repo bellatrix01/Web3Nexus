@@ -35,7 +35,7 @@ To run the demo follow these steps:
     DEPLOYER_KEY=<YOUR_PRIVATE_KEY>
     ```
 3. Run the app using `yarn start`
-4. 
+4. Useful links
 - ⚽ [Metamask](https://metamask.io/)
 - 💡 [Hardhat](https://hardhat.org/)
 - 📈 [Alchamy](https://www.alchemy.com/)
