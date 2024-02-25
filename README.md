@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Decentralized chat-app:- https://gun-chat-dapp.web.app/ (hosted)
+Decentralized crowd-funding:- https://sprightly-genie-d11ffa.netlify.app/ (Hosted)(Please install metamask)
